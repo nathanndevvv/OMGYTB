@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @OMGYTB
-- 👀 I’m interested in WEB
-- 🌱 I’m currently learning  l'HTML et le CSS
-- 💞️ I’m looking to collaborate on ... I don't now
-- 📫 How to reach me, Mon e-mail : blezotn@gmail.com
-- ⚡ Fun fact: Dans mon code je mets <style>
+17yo 👨🏻‍💻
+🌐 Développeur Web  💻
+✨ Transformez vos idées en réalité !
+🚀 Sites web sur mesure 
+💡 Passionné par le code 
+📩 DM pour collaborer !
 
 <!---
 OMGYTB/OMGYTB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
