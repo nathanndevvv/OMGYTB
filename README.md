@@ -72,8 +72,8 @@ Je suis un jeune développeur web passionné de 17 ans, spécialisé dans la cr�
 ### 🌟 Projet 1 - WebCloner
 > Un cloneur de site web à base de requête HTTP en Pyhton.
 
-### 🌟 Projet 2 - CharlesCarspoting
-> Un portfolio web avec un style street mais à la fois moderne.
+### 🌟 Projet 2 - Python Dev Tools
+> Un Outils pour dévellopeur de tous niveau en Python.
 
 
 ---
